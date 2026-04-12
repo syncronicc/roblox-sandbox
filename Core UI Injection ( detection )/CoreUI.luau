@@ -1,5 +1,5 @@
 ----
---# Made by kts on 2/4/2023; Place in player scripts!
+--#CoreUIDetection.luau
 ----
 
 local ContentProvider=game:GetService("ContentProvider")
